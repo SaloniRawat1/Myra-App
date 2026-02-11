@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D6346DB62F3750BC00EB8784 /* DGCharts in Frameworks */ = {isa = PBXBuildFile; productRef = D6346DB52F3750BC00EB8784 /* DGCharts */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		D64E344E2F35B89B0027FEBE /* homePageFinal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homePageFinal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -36,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6346DB62F3750BC00EB8784 /* DGCharts in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +83,7 @@
 			);
 			name = homePageFinal;
 			packageProductDependencies = (
+				D6346DB52F3750BC00EB8784 /* DGCharts */,
 			);
 			productName = homePageFinal;
 			productReference = D64E344E2F35B89B0027FEBE /* homePageFinal.app */;
@@ -107,6 +113,9 @@
 			);
 			mainGroup = D64E34452F35B89B0027FEBE;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				D6346DB42F3750BC00EB8784 /* XCRemoteSwiftPackageReference "Charts" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = D64E344F2F35B89B0027FEBE /* Products */;
 			projectDirPath = "";
@@ -341,6 +350,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D6346DB42F3750BC00EB8784 /* XCRemoteSwiftPackageReference "Charts" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/danielgindi/Charts";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.1.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D6346DB52F3750BC00EB8784 /* DGCharts */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D6346DB42F3750BC00EB8784 /* XCRemoteSwiftPackageReference "Charts" */;
+			productName = DGCharts;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D64E34462F35B89B0027FEBE /* Project object */;
 }
