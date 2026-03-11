@@ -1,0 +1,60 @@
+{
+  "Mind": [
+    {
+      "id": "1",
+      "name": "Gayatri Mantra",
+      "category": "meditation",
+      "benefits": [
+        "Calms the mind"
+      ],
+      "duration": "2 min",
+      "imagePath": "Gayatri Mantra.png"
+    },
+    {
+      "id": "2",
+      "name": "Om Chanting",
+      "category": "meditation",
+      "benefits": [
+        "Releases stress"
+      ],
+      "duration": "2 min",
+      "imagePath": "Om Chanting.png"
+    },
+    {
+      "id": "3",
+      "name": "Morning Calm",
+      "category": "musicTherapy",
+      "benefits": [
+        "Releases stress"
+      ],
+      "duration": "2 min",
+      "imagePath": "Morning Calm.png"
+    },
+    {
+      "id": "4",
+      "name": "Sleep Better",
+      "category": "musicTherapy",
+      "benefits": [
+        "Eases hormonal tension"
+      ],
+      "duration": "2 min",
+      "imagePath": "Sleep Better.png"
+    },
+    {
+      "id": "5",
+      "name": "Stress Relief",
+      "category": "musicTherapy",
+      "benefits": [
+        "Reduces stress hormones"
+      ],
+      "duration": "2 min",
+      "imagePath": "Stress Relief.png"
+    }
+  ],
+  "total_count": 5,
+  "categories": [
+    "musicTherapy",
+    "meditation"
+  ],
+  "generated_at": "2026-02-03 13:09:56"
+}

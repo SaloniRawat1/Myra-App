@@ -1,0 +1,107 @@
+{
+  "Fitness": [
+    {
+      "id": "Yoga-1",
+      "name": "Sukhasana",
+      "category": "yoga",
+      "benefits": [
+        "Calms the mind",
+        "Reduces cortisol",
+        "Balances nervous system"
+      ],
+      "level": "beginner",
+      "duration": "2 min",
+      "imagePath": "Sukhasana.png"
+    },
+    {
+      "id": "Yoga-2",
+      "name": "Balasana",
+      "category": "yoga",
+      "benefits": [
+        "Releases Stress",
+        "Calms Nervous system"
+      ],
+      "level": "beginner",
+      "duration": "2 min",
+      "imagePath": "Balasana.png"
+    },
+    {
+      "id": "Yoga-3",
+      "name": "Marjaryasana-Bitilkasana",
+      "category": "yoga",
+      "benefits": [
+        "Enhances Pelvic blood circulation",
+        "Improves spinal mobility"
+      ],
+      "level": "beginner",
+      "duration": "2 min",
+      "imagePath": "Marjaryasana-Bitikasana.png"
+    },
+    {
+      "id": "Yoga-4",
+      "name": "Supta Baddha Konasana",
+      "category": "yoga",
+      "benefits": [
+        "Relaxes Pelvic organs",
+        "Eases hormonal tension"
+      ],
+      "level": "beginner",
+      "duration": "2 min",
+      "imagePath": "Supt Baddha Konasana.png"
+    },
+    {
+      "id": "Yoga-5",
+      "name": "Viparita Karani",
+      "category": "yoga",
+      "benefits": [
+        "Reduces stress hormones",
+        "Improves circulation"
+      ],
+      "level": "beginner",
+      "duration": "2 min",
+      "imagePath": "Viparita Karani.png"
+    },
+    {
+      "id": "Exercise-1",
+      "name": "Brisk Walking",
+      "category": "exercise",
+      "benefits": [
+        "Reduces stress hormones",
+        "Improves circulation"
+      ],
+      "level": "beginner",
+      "duration": "2 min",
+      "imagePath": "Brisk Waking.png"
+    },
+    {
+      "id": "Exercise-2",
+      "name": "Glute Bridge",
+      "category": "exercise",
+      "benefits": [
+        "Reduces stress hormones",
+        "Improves circulation"
+      ],
+      "level": "beginner",
+      "duration": "2 min",
+      "imagePath": "Glute Bridge.png"
+    },
+    {
+      "id": "Exercise-3",
+      "name": "Dead Bug",
+      "category": "exercise",
+      "benefits": [
+        "Reduces stress hormones",
+        "Improves circulation"
+      ],
+      "level": "beginner",
+      "duration": "2 min",
+      "imagePath": "Dead Bug.png"
+    }
+  ],
+  "total_count": 8,
+  "categories": [
+    "yoga",
+    "exercise"
+  ],
+  "generated_at": "2026-02-03 13:09:56"
+}

@@ -8,10 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		D6346DB62F3750BC00EB8784 /* DGCharts in Frameworks */ = {isa = PBXBuildFile; productRef = D6346DB52F3750BC00EB8784 /* DGCharts */; };
+		D6FF39EF2F5FFF0700E2F0EC /* HealthData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6FF39EE2F5FFF0100E2F0EC /* HealthData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D64E344E2F35B89B0027FEBE /* homePageFinal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homePageFinal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6FF39EE2F5FFF0100E2F0EC /* HealthData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -50,6 +52,7 @@
 		D64E34452F35B89B0027FEBE = {
 			isa = PBXGroup;
 			children = (
+				D6FF39EE2F5FFF0100E2F0EC /* HealthData.swift */,
 				D64E34502F35B89B0027FEBE /* homePageFinal */,
 				D64E344F2F35B89B0027FEBE /* Products */,
 			);
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6FF39EF2F5FFF0700E2F0EC /* HealthData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
